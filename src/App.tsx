@@ -21,7 +21,7 @@ const projectCards = [
     title: 'Clipboard Manager',
     desc: 'Desktop app that tracks and manages clipboard history in real-time using Electron IPC and persistent SQLite storage.',
     skills: ['Electron', 'Node.js', 'SQLite'],
-    github: 'https://github.com/MK013467/forum/tree/main',
+    github: 'https://github.com/MK013467/copy-pasteapp',
     demo: '',
   },
   {
